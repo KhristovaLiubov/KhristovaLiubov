@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on projects in RStudio
-- 📫 How to reach me 
+- 📫 How to reach me luckylily619@gmail.com
 
 <!---
 KhristovaLiubov/KhristovaLiubov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
